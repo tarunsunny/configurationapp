@@ -1,5 +1,7 @@
- build:          # e.g. 2026-01-09-build123 or a build command
-  id: 30100001
-  version: 3000.2.3
-  name:"PROD-GIT-Production-BUILD"
-  type:"GIT Production Build"
+# configdemo-prod.yml (for profile 'prod')
+app:
+  build: "PLACEHOLDER_BUILD"
+  id: "30100001"
+  version: "3000.2.3"
+  name: "PROD-GIT-Production-BUILD"
+  type: "GIT Production Build"

@@ -1,5 +1,7 @@
- build:          # e.g. 2026-01-09-build123 or a build command
-  id: 20100001
-  version: 2000.2.3
-  name:"DEV-GIT-Dev-BUILD"
-  type:"GIT Developement Build"
+# configdemo-dev.yml (for profile 'dev')
+app:
+  build: "PLACEHOLDER_BUILD"
+  id: "20100001"
+  version: "2000.2.3"
+  name: "DEV-GIT-Dev-BUILD"
+  type: "GIT Development Build"

@@ -1,5 +1,5 @@
  build:          # e.g. 2026-01-09-build123 or a build command
   id: 30100001
   version: 3000.2.3
-  name:"PROD-GIT-PRODUCTION-BUILD"
-  type:"PROD Developement Build"
+  name:"PROD-GIT-Production-BUILD"
+  type:"GIT Production Build"

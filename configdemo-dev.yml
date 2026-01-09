@@ -1,1 +1,5 @@
-
+ build:          # e.g. 2026-01-09-build123 or a build command
+  id: 20100001
+  version: 2000.2.3
+  name:"DEV-GIT-PRODUCTION-BUILD"
+  type:"DEV Developement Build"
